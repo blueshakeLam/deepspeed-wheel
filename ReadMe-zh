@@ -1,1 +1,2 @@
 如何在windows下面编译deepspeed
+编译环境为torch2.8，python3.12，cuda12.8，deepspeed的版本为0.17.6
